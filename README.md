@@ -1,10 +1,4 @@
-```markdown
-<p align="center"><strong>Welcome to my GitHub profile 👋</strong></p>
-<p align="center">
-  <img width="50" src="https://github.githubassets.com/images/mona-whisper.gif" alt="GitHub Mascot">
-</p>
-
----
+<p align="center"><strong>Welcome to my GitHub</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Android+Developer;Custom+ROM+Maintainer;Open+Source+Contributor;Always+learning+new+things!" alt="Typing SVG" />
@@ -29,18 +23,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverSyx&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top languages" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OliverSyx&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OliverSyx&color=00FF00&style=flat-square" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-green?style=flat-square" />
-</p>
-```
